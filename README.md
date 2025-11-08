@@ -47,3 +47,4 @@ python tg.py
 
 - [English README](README_EN.md)
 - [Español README](README_ES.md)
+- [Русский README](README_RU.md)

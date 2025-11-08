@@ -40,3 +40,11 @@ On first run, follow the prompts to enter your phone number (including country c
 ## Output example
 
 ![Renderings](pic.png)
+
+---
+
+Other languages:
+
+- [中文 README](README.md)
+- [Español README](README_ES.md)
+- [Русский README](README_RU.md)

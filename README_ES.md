@@ -40,3 +40,11 @@ En la primera ejecución, sigue las indicaciones para introducir tu número de t
 ## Ejemplo de salida
 
 ![Renderings](pic.png)
+
+---
+
+Otros idiomas:
+
+- [中文 README](README.md)
+- [English README](README_EN.md)
+- [Русский README](README_RU.md)
