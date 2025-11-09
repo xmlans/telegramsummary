@@ -32,7 +32,7 @@ pip install telethon
 Inicia el script con:
 
 ```bash
-python tg.py
+python tg_es.py
 ```
 
 En la primera ejecución, sigue las indicaciones para introducir tu número de teléfono (incluido el código de país, por ejemplo `+13333333333`). Telegram te enviará un código de verificación: introdúcelo cuando se te pida y espera a que se genere el resumen.
